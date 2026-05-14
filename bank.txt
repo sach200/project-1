@@ -1,2 +1,3 @@
+"RBI security patch applied"
 "fraud detection application"
 "fraud detection algorithm added"
